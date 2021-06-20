@@ -1,1 +1,1 @@
-# Heart_Disease_prediction using Machine learning algorithms
+# Heart_Disease_prediction using Machine learning Algorithms
